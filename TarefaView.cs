@@ -52,16 +52,26 @@ public class TarefaView
         Console.WriteLine("------------------------------------");
     }
     public void ListarTarefasPendentes(List<Tarefa> tarefas)
-    {
-        Console.WriteLine("----------LISTA DE TAREFAS PENDENTES----------");
-    
-        foreach (var tarefa in tarefas)
-        {
-            Console.WriteLine($"#{tarefa.id}: {tarefa.nome} -> {(tarefa.finalizada ? "Finalizada" : "Pendente")}");
-        }
+{
+    Console.WriteLine("----------LISTA DE TAREFAS PENDENTES----------");
 
-        Console.WriteLine("----------------------------------------------");
+    bool algumaPendente = false;
+
+    foreach (var tarefa in tarefas)
+    {
+        if (!tarefa.finalizada) // Verifica se a tarefa não está finalizada
+        {
+            Console.WriteLine($"#{tarefa.id}: {tarefa.nome} -> Pendente");
+            algumaPendente = true;
+        }
     }
-    
+
+    if (!algumaPendente)
+    {
+        Console.WriteLine("Nenhuma tarefa pendente");
+    }
+
+    Console.WriteLine("----------------------------------------------");
 }
 
+}
