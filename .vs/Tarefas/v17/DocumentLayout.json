@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\TarefaModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefaModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\TarefaView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefaView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\TarefaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\TarefaModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarefaModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -42,31 +42,30 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T17:00:05.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T17:00:05.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TarefaController.cs",
               "DocumentMoniker": "D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\TarefaController.cs",
               "RelativeDocumentMoniker": "TarefaController.cs",
               "ToolTip": "D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\TarefaController.cs",
               "RelativeToolTip": "TarefaController.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGoAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwBUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T15:32:30.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TarefaView.cs",
               "DocumentMoniker": "D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\TarefaView.cs",
               "RelativeDocumentMoniker": "TarefaView.cs",
               "ToolTip": "D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\TarefaView.cs",
               "RelativeToolTip": "TarefaView.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAASwDUAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T16:34:16.594Z",
               "EditorCaption": ""
@@ -85,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TarefaModel.cs",
               "DocumentMoniker": "D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\TarefaModel.cs",
               "RelativeDocumentMoniker": "TarefaModel.cs",
               "ToolTip": "D:\\Atos\\Arquitetura_e_Padroes_de_Projetos\\aula_arquitetura-padroes\\Tarefas\\TarefaModel.cs",
               "RelativeToolTip": "TarefaModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAFAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAASwEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T15:31:06.194Z",
               "EditorCaption": ""

@@ -58,7 +58,10 @@ public class TarefaModel
 
     public List<Tarefa> GetTarefasPendentes()
     {
-        return tarefas.FindAll(t => !t.finalizada);
+        // Realiza a lógica de negócios de carregar os dados da persistência
+        this.tarefas = this.tarefaPersistence.CarregarDados();
+
+        return this.tarefas.FindAll(t => !t.finalizada);
     }
 
     private int gerarNovoId() {
